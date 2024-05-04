@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10189841844",
+    "project_id": "basicapp-262e1",
+    "storage_bucket": "basicapp-262e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10189841844:android:35ada3689637c07f313ee1",
+        "android_client_info": {
+          "package_name": "com.gabadev.appcrud.app_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OaMzuv7OQM9M_gcLAlpGoFBP7x2eRfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
